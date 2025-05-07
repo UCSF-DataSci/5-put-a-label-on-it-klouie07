@@ -1,0 +1,9 @@
+Model Evaluation Metrics
+accuracy: 0.9195
+precision: 0.6765
+recall: 0.3239
+f1: 0.4381
+auc: 0.8853
+confusion_matrix:
+[[1302   22]
+ [  96   46]]

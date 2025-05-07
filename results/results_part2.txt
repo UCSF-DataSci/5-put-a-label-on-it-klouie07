@@ -1,0 +1,3 @@
+AUC for Part 2 (Random Forest vs XGBoost AUC)
+Random Forest AUC: 0.9735
+XGBoost AUC: 0.9953
